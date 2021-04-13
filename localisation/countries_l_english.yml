@@ -1,6 +1,7 @@
 ﻿l_english:
  VAR_neutrality:0 "Kingdom of Varania"
  VAR_democratic:0 "Federated Republic of Varania"
+ VAR_communism:0 "Socialist Republic of Varania"
  ELU_neutrality:0 "Duchy of Lusatia"
  EFS_fascism:0 "Eisenkorps Freistadt"
  SQP_neutrality:0 "Shqiperia"
