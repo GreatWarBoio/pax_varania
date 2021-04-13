@@ -2,8 +2,6 @@ state={
 	id=1
 	name="STATE_1"
 	provinces={
-1
-2
 3
 4
 5
