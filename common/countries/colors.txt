@@ -1,0 +1,42 @@
+#reload countrycolors
+
+ELU = {
+	color = rgb { 25 25 115 }
+	color_ui = rgb { 25 25 115 }
+	}
+EFS = {
+	color = rgb { 60 60 60 }
+	color_ui = rgb { 60 60 60 }
+	}
+VAR = {
+	color = rgb { 30 140 50 }
+	color_ui = rgb { 30 140 50 }
+}
+SKT = {
+	color = rgb { 145 100 0 }
+	color_ui = rgb { 145 100 0 }
+}
+WLU = {
+	color = rgb { 25 25 115 }
+	color_ui = rgb { 25 25 115 }
+}
+NCT = {
+	color = rgb { 15 35 15 }
+	color_ui = rgb { 15 35 15 }
+}
+LUT = {
+	color = rgb { 80 125 175 }
+	color_ui = rgb { 80 125 175 }
+}
+KIL = {
+	color = rgb { 80 80 150 }
+	color_ui = rgb { 80 80 150 }
+}
+SQP = {
+	color = rgb { 135 5 5 }
+	color_ui = rgb { 135 5 5 }
+	}
+FSV = {
+	color = rgb { 30 140 50 }
+	color_ui = rgb { 30 140 50 }
+	}

@@ -1,0 +1,7 @@
+fix building slots
+add in remaining duchies
+add resources
+do OOBs
+get flags
+get city names
+do starting buildings

@@ -1,0 +1,49 @@
+bookmarks = {
+	bookmark = {
+		name = "Frederick's Empire"
+		desc = "1948_BOOKMARK_LOC"
+		date = 1948.1.1.12
+		picture = "GFX_1948_start"
+		default_country = "VAR"
+	
+		VAR = {
+			history = VAR_1948_DESC_LOC
+			ideology = neutrality
+			ideas = {
+				#trotskyite_plot_purged
+				#home_of_revolution
+				#officers_purged
+				#nkvd_2
+			}
+			focuses = {
+				#SOV_move_industry_to_urals
+				#SOV_claims_on_baltic
+				#SOV_war_with_uk
+			}
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		# minors from DLC ####
+		"POL"={
+			minor = yes
+			history = "POL_BLITZKRIEG_DESC"
+			ideology = neutrality
+			ideas = {
+				deterrence
+			}
+			focuses = {
+				POL_the_baltic_alliance
+				POL_draw_closer_to_britain
+				POL_seek_accommodation_with_germany
+			}
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
