@@ -41,6 +41,6 @@ FSV = {
 	color_ui = rgb { 30 140 50 }
 	}
 WMC = {
-	color = rgb { 25 25 115 }
-	color_ui = rgb { 25 25 115 }
+	color = rgb { 90 100 115 }
+	color_ui = rgb { 90 100 115 }
 	}
