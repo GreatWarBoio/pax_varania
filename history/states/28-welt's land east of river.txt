@@ -1,7 +1,7 @@
 state = {
 	id = 28
 	name = "STATE_28"
-	manpower = 1549700
+	manpower = 558200
 
 	history = {
 		owner = WMC
