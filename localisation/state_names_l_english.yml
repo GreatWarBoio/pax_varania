@@ -20,3 +20,12 @@
  STATE_19:0 "merchants?"
  STATE_20:0 "fsv?"
  STATE_21:0 "Western Varania City"
+ #STATE_22:0
+ #STATE_23:0
+ #STATE_24:0
+ STATE_25:0 "Welt City"
+ STATE_26:0 "Honey River Delta"
+ STATE_27:0 "Port Lemko"
+ STATE_28:0 "Money Valley"
+ STATE_29:0 "Wealth Basin"
+ STATE_30:0 "Genocide Flatlands"
